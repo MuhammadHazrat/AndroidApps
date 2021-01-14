@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UetProject</string>
+    <string name="order">Order</string>
+    <string name="_0">$0</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+</resources>
